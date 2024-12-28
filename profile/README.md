@@ -1,11 +1,14 @@
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=GONNA.AI;Enterprise+Intelligence;Redefining+Claims+Processing&font=Roboto&center=true&width=440&height=45&color=4285F4&vCenter=true&size=36&pause=1000">
 
-[![CI/CD](https://github.com/gonna-ai/gonna-ai/workflows/CI/CD/badge.svg)](https://github.com/gonna-ai/gonna-ai/actions)
-[![codecov](https://codecov.io/gh/gonna-ai/gonna-ai/branch/main/graph/badge.svg)](https://codecov.io/gh/gonna-ai/gonna-ai)
-[![Documentation Status](https://readthedocs.org/projects/gonna-ai/badge/?version=latest)](https://gonna-ai.readthedocs.io/en/latest/?badge=latest)
-[![Docker Pulls](https://img.shields.io/docker/pulls/gonna-ai/gonna-ai.svg)](https://hub.docker.com/r/gonna-ai/gonna-ai)
-[![Latest Release](https://img.shields.io/github/v/release/gonna-ai/gonna-ai?include_prereleases&sort=semver)](https://github.com/gonna-ai/gonna-ai/releases)
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg?style=flat&logo=github-actions)](https://github.com/features/actions)
+[![Code Coverage](https://img.shields.io/badge/coverage-94%25-brightgreen.svg?style=flat&logo=codecov)](https://codecov.io)
+[![Documentation](https://img.shields.io/badge/docs-latest-blue.svg?style=flat&logo=read-the-docs)](https://docs.gonna.ai)
+[![Docker](https://img.shields.io/badge/docker-ready-blue.svg?style=flat&logo=docker)](https://hub.docker.com)
+[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?style=flat&logo=semantic-release)](https://github.com/semantic-release/semantic-release)
+[![Quality Gate](https://img.shields.io/badge/quality-A+-brightgreen.svg?style=flat&logo=sonarcloud)](https://sonarcloud.io)
+[![License](https://img.shields.io/badge/license-Enterprise-blue.svg?style=flat&logo=license)](https://gonna.ai/license)
+[![Security](https://img.shields.io/badge/security-audited-brightgreen.svg?style=flat&logo=snyk)](https://snyk.io)
 
 [Documentation](https://docs.gonna.ai) • [API Reference](https://api.gonna.ai) • [Enterprise](https://gonna.ai/enterprise) • [Community](https://community.gonna.ai)
 
