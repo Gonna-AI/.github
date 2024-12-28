@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=GONNA.AI;Enterprise+Intelligence;Redefining+Claims+Processing&font=Roboto&center=true&width=440&height=45&color=4285F4&vCenter=true&size=36&pause=1000">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=GONNA.AI;Enterprise+Intelligence;Claims+Processing&font=Roboto&center=true&width=440&height=45&color=4285F4&vCenter=true&size=36&pause=1000">
 
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg?style=flat&logo=github-actions)](https://github.com/features/actions)
 [![Code Coverage](https://img.shields.io/badge/coverage-94%25-brightgreen.svg?style=flat&logo=codecov)](https://codecov.io)
